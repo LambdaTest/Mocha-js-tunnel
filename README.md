@@ -24,6 +24,11 @@ With TestMu AI (Formerly LambdaTest), you can run Mocha Tunnel Tests across real
 - Node.js and npm (latest stable)
 - A TestMu AI (Formerly LambdaTest) account with your username and access key
 
+### Prerequisites
+
+- Node.js and npm (latest stable)
+- A TestMu AI (Formerly LambdaTest) account with your username and access key
+
 ## Steps
 
 ### Step 1: Download the tunnel binary from the TestMu AI (Formerly LambdaTest) Dashboard
